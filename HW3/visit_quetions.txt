@@ -1,0 +1,26 @@
+Stefan Knott
+
+
+Dataset 1:
+Data File Name: localhost:/home/stefan/Downloads/Week05_Datasets/Homework/strpts3d.vtk
+File Format: VTK_1.0
+Mesh Type:  Rectilinear Mesh
+Spatial Dimension: 3
+Spatial Extents: ((5,7), (7, 8), (9, 10))
+Names of Scalars: densitiy, temperature
+Names of Vectors: torodial, polodial
+Names of Expressions: 
+
+Dataset 2:
+Data File Name:  localhost:/home/stefan/Downloads/Week05_Datasets/Homework/global_node.silo
+File Format: Silo_1.0
+Mesh Type: Unstructured Mesh
+Spatial Dimensions: 3
+Names of Scalars: dist, p
+
+Dataset 3:
+Data File Name:  localhost:/home/stefan/Downloads/Week05_Datasets/Homework/1b41.pdb
+Data Description: 	HUMAN ACETYLCHOLINESTERASE COMPLEXED WITH FASCICULIN-II, GLYCOSYLATED PROTEIN       
+File Format: ProteinDataBank_1.0
+Mesh Type: Point Mesh
+Spatial Dimensions: 3
